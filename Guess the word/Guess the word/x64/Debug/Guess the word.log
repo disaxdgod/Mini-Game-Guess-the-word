@@ -1,0 +1,4 @@
+﻿  Guess the word.cpp
+C:\Users\disa\source\repos\Guess the word\Guess the word\Guess the word.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\disa\source\repos\Guess the word\Guess the word\Guess the word.cpp(29,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Guess the word.vcxproj -> C:\Users\disa\source\repos\Guess the word\x64\Debug\Guess the word.exe
